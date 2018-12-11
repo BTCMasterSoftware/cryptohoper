@@ -1,5 +1,7 @@
-# cryptohoper
+# CryptoHopper
 AutoTrade Bot For Windows
+ 
+ 
  CH Companion
 What's this?
 
